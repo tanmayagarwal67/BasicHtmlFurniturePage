@@ -1,0 +1,38 @@
+body{
+    background: url("../images/furniture.jpg")
+        no-repeat center center fixed;
+    background-size: cover;
+}
+
+div{
+    text-align: center;
+    width: 400px;
+    margin: 100px auto;
+    background-color: skyblue;
+    border-radius: 25px;
+    font-family: 'Lobster', cursive;
+    opacity: 0.8;
+    
+
+}
+
+
+h1{
+    font-size: 4em;
+    color: white;
+}
+
+p{
+    font-size: 2em;
+}
+
+button{
+    background-color: rgba(0,50,0);
+    font-size: 1.5em;
+    border-radius: 10px;
+    color: azure;
+}
+
+i{
+    font-size: 1.2em;
+}
